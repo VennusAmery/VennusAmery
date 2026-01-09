@@ -8,7 +8,7 @@
 ### 🌸 About Me
 Soy un perfil híbrido apasionado por la **LegalTech**, la **Ciberseguridad** y la **Gobernanza Digital**. Mi objetivo es construir puentes entre el desarrollo de software de alto nivel y el cumplimiento legal riguroso.
 
-- 🎓 Estudiando **Ingeniería en Sistemas** + **Derecho**.
+- 🎓 Estudiando **Ingeniería en Sistemas** + **Derecho** (5to año en ambas)
 - 🏛️ Intereses: Smart Contracts, Privacidad de Datos, Ética en IA, Ciberdelitos, Desarrollo web y aplicaciones moviles
 - 🍒 Fun fact: Puedo debuggear código y redactar un recurso de amparo en la misma tarde.
 
