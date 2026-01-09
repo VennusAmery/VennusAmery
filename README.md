@@ -1,9 +1,5 @@
 # 🍒 Hola, Soy Vennus! 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
-</p>
-
 ### ⚖️ Future Software Engineer & Lawyer 💻
 *Transformando el código en norma y la norma en algoritmo.*
 
@@ -38,14 +34,6 @@ Soy un perfil híbrido apasionado por la **LegalTech**, la **Ciberseguridad** y 
 - 📂 **Data Privacy**             | 📜 **Smart Contracts & Blockchain**
 - 🛡️ **Cybersecurity Law**        | 💻 **Derecho Informático**
 - 🏠 **Derecho Civil (Familiar)** | 💼 **Derecho Laboral**
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[vennusamery]&show_icons=true&theme=rose_pine&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[vennusamery]&layout=compact&theme=rose_pine&hide_border=true" height="150" />
-</p>
 
 ---
 
